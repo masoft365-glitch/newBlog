@@ -1,0 +1,80 @@
+[
+  {
+    "id": "p1",
+    "title": "AI Chains: Building composable AI tools quickly",
+    "date": "2025-09-10",
+    "author": "A. Dev",
+    "readTime": "6 min",
+    "excerpt": "A practical guide to composing small AI utilities into powerful workflows.",
+    "category": "ai",
+    "tags": ["ai","automation","llms"],
+    "views": 1523,
+    "trendingScore": 890,
+    "html": "<p>Composable AI is a pattern where you stitch together small, specialized models or actions into a chain. This lets you optimize each step and reuse modules across tasks.</p>"
+  },
+  {
+    "id": "p2",
+    "title": "Top Dev Tools in 2025: What to watch",
+    "date": "2025-08-25",
+    "author": "DevOps Daily",
+    "readTime": "5 min",
+    "excerpt": "A quick tour of modern tools that accelerate dev cycles and improve DX.",
+    "category": "dev",
+    "tags": ["tools","productivity"],
+    "views": 2331,
+    "trendingScore": 720,
+    "html": "<p>From local-first dev sandboxes to AI-assisted code completion, these tools reshape developer workflows.</p>"
+  },
+  {
+    "id": "p3",
+    "title": "Crypto and Personal Finance: Basics you should know",
+    "date": "2025-07-18",
+    "author": "MoneyMind",
+    "readTime": "7 min",
+    "excerpt": "Key concepts to protect your portfolio and spot long-term value.",
+    "category": "finance",
+    "tags": ["crypto","investing"],
+    "views": 980,
+    "trendingScore": 410,
+    "html": "<p>Understand risk-adjusted returns, stablecoins, and how to use dollar-cost averaging responsibly.</p>"
+  },
+  {
+    "id": "p4",
+    "title": "YouTube Trends: 5 content ideas that are exploding",
+    "date": "2025-09-01",
+    "author": "TrendWatch",
+    "readTime": "4 min",
+    "excerpt": "Video themes gaining momentum across YouTube and Google searches.",
+    "category": "google",
+    "tags": ["youtube","content","trends"],
+    "views": 4120,
+    "trendingScore": 1420,
+    "html": "<p>Short explainers, micro-documentaries, AI-assisted editing & live reactions are seeing surging interest.</p>"
+  },
+  {
+    "id": "p5",
+    "title": "Reddit's Rising Topics This Week",
+    "date": "2025-09-13",
+    "author": "CommunityPulse",
+    "readTime": "3 min",
+    "excerpt": "What subreddits are getting the most traction and how to tap into the conversation.",
+    "category": "reddit",
+    "tags": ["reddit","community","trends"],
+    "views": 3050,
+    "trendingScore": 1160,
+    "html": "<p>The intersection of AI tools for creators and Mid-journey style art is generating high engagement.</p>"
+  },
+  {
+    "id": "p6",
+    "title": "Microlearning: Small lessons, big impact",
+    "date": "2025-06-30",
+    "author": "EduBytes",
+    "readTime": "5 min",
+    "excerpt": "How to structure micro-lessons for modern learners and retention.",
+    "category": "edu",
+    "tags": ["education","learning"],
+    "views": 650,
+    "trendingScore": 300,
+    "html": "<p>Microlearning uses tight scopes and active recall to help learners keep pace with rapidly changing knowledge.</p>"
+  }
+]
